@@ -41,6 +41,8 @@ hr {
     display: none;
 }
 
+
+
 .navbar-brand {
     text-transform: uppercase;
     font-weight: 900;
@@ -190,3 +192,13 @@ footer p {
         clear: both;
     }
 }
+
+
+img.smalllogo {
+    display:inline;
+    text-align: center;
+    height: 50px;
+}
+
+
+
